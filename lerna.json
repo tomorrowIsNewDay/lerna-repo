@@ -2,9 +2,17 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.1.7",
+  "version": "0.1.6",
   "npmClient": "npm",
   "command": {
+    "publish": {
+      "ignoreChanges": [
+        "ignored-file",
+        "*.md"
+      ],
+      "message": "chore(release): publish",
+      "registry": "https://github.com/tomorrowIsNewDay/lerna-repo.git"
+    },
     "bootstrap": {
       "ignore": "component-*",
       "npmClientArgs": [
