@@ -11,7 +11,7 @@
         "*.md"
       ],
       "message": "chore(release): publish",
-      "registry": "https://github.com/tomorrowIsNewDay/lerna-repo.git"
+      "registry": "https://www.npmjs.com/settings/lee_liming/packages"
     },
     "bootstrap": {
       "ignore": "component-*",
