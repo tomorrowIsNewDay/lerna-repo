@@ -1,6 +1,7 @@
 
 function fn(a,b){
-    return a+b
+    console.log(123)
+    return a+b;
 }
 
 module.exports = fn
