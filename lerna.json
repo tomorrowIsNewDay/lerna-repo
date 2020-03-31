@@ -11,7 +11,7 @@
         "*.md"
       ],
       "message": "chore(release): publish",
-      "registry": "https://www.npmjs.com/settings/lee_liming/packages"
+      "registry": "https://registry.npmjs.org/"
     },
     "bootstrap": {
       "ignore": "component-*",
