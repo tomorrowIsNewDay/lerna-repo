@@ -1,5 +1,5 @@
 {
-  "name": "pkgA",
+  "name": "pkg-md",
   "version": "0.1.19",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "webpack": "^4.42.1"
   },
-  "gitHead": "9b8b6764f236018864557949ccd02e59e7b5e98e"
+  "gitHead": "c692a55f41aed06eb95fd7f8e29a653597124e94"
 }
