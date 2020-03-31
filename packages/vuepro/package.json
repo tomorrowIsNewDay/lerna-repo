@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "vue",
   "version": "0.1.3",
   "description": "",
   "main": "index.js",
@@ -9,12 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "babel-core": "^6.0.0"
-  },
   "dependencies": {
-    "vue": "^2.6.11",
     "webpack": "^4.42.1"
   },
-  "gitHead": "9281a16871b68ce428ba53eb5de3b94ab8f18718"
+  "gitHead": "d6b64e5168227790f6fbee5653054934e82354d6"
 }
