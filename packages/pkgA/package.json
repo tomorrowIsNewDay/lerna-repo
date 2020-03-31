@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "webpack": "^4.42.1"
-  }
+  },
+  "gitHead": "8617ecd5820da6e69c041d109b96005f803072b0"
 }
